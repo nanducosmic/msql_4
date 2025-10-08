@@ -1,0 +1,1 @@
+CREATE TABLE author (Author_id int UNIQUE KEY,Author_name text, Email varchar(20) UNIQUE KEY);

@@ -1,0 +1,2 @@
+CREATE DATABASE BookStoreDB;
+CREATE TABLE author(author_id INT PRIMARY KEY,name TEXT,country TEXT);
